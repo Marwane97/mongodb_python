@@ -1,0 +1,7 @@
+requests==2.19.1
+geopy==1.18.1
+pyprog==1.1.0.post0
+graphviz==0.8.4
+lru-cache==0.2.3
+pymongo==3.7.2
+python-dotenv~=0.14.0
